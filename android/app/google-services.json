@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346680939175",
+    "project_id": "taskflutter-8978a",
+    "storage_bucket": "taskflutter-8978a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346680939175:android:ddfcf0f0f892b0d6840182",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346680939175-q4o6p66emfb7ec5kgckh3eh484dmub15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4AvGbzJKkeKSp_7AAZNd_hBPGZATqQT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346680939175-q4o6p66emfb7ec5kgckh3eh484dmub15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
